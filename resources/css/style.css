@@ -23,6 +23,11 @@ header {
   color: rgb(255, 0, 171);
 }
 
+#logo a {
+  color: rgb(255, 0, 171);
+  text-decoration: none;
+}
+
 #search {
   justify-content: space-between;
 }
